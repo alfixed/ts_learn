@@ -27,5 +27,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "arui-feather": "^13.11.0",
+    "arui-scripts": "^4.2.1"
   }
 }
